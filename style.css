@@ -1,0 +1,15 @@
+/* --- Layout --- */
+* {
+    box-sizing: border-box;
+}
+body {}
+body > header {}
+header > nav {}
+header > nav li {}
+aside {}
+main {}
+main > header {}
+main > footer {}
+body > footer {}
+
+/* --- Color --- */
