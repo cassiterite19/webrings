@@ -9,7 +9,10 @@
         <p>if you want to join, <a href="/contact/">contact me</a>.</p>
     </article>
     <article>
-        <script type="text/javascript" src="onionring/onionring-index.js"></script>
+        <div id='webringid'>
+            <script type="text/javascript" src="scriptURL/onionring-variables.js"></script>
+            <script type="text/javascript" src="onionring/onionring-index.js"></script>
+        </div>
     </article>
     <footer>
         <p>last updated 07/22/25</p>
