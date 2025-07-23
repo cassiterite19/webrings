@@ -10,7 +10,7 @@
     </article>
     <article>
         <div id='webringid'>
-            <script type="text/javascript" src="scriptURL/onionring-variables.js"></script>
+            <script type="text/javascript" src="onionring/onionring-variables.js"></script>
             <script type="text/javascript" src="onionring/onionring-index.js"></script>
         </div>
     </article>
